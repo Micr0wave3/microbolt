@@ -4,16 +4,16 @@ Custom made bolt action pen
 
 Renders of final version (so far) in copper
 Rendered in Autodesk Fusion 360 <br/>P.1
-![alt text](https://github.com/Micr0wave3/project-pen-si/blob/main/renders%20and%20files/final_render_1.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microbolt/blob/main/renders%20and%20files/final_render_1.png?raw=true)
 P.2
-![alt text](https://github.com/Micr0wave3/project-pen-si/blob/main/renders%20and%20files/final_render_2.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microbolt/blob/main/renders%20and%20files/final_render_2.png?raw=true)
 P.3
-![alt text](https://github.com/Micr0wave3/project-pen-si/blob/main/renders%20and%20files/final_render_3.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microbolt/blob/main/renders%20and%20files/final_render_3.png?raw=true)
 P.4
-![alt text](https://github.com/Micr0wave3/project-pen-si/blob/main/renders%20and%20files/final_render_exploded.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microbolt/blob/main/renders%20and%20files/final_render_exploded.png?raw=true)
 In P.5 you can see a cross-cut section in the final version of the pen (again "final" is not temporary)
 P.5
-![alt text](https://github.com/Micr0wave3/project-pen-si/blob/main/renders%20and%20files/final_cross_cut.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microbolt/blob/main/renders%20and%20files/final_cross_cut.png?raw=true)
 ##
 ##
 ##
@@ -25,12 +25,12 @@ P.5
 # Plans and renders will be appearing below
 
 _Render of first edition grip in raw copper_
-![alt text](https://github.com/Micr0wave3/project-pen-si/blob/main/renders%20and%20files/copper_render.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microbolt/blob/main/renders%20and%20files/copper_render.png?raw=true)
 
 
 _Cutaway of mechanism in progress_
-![alt text](https://github.com/Micr0wave3/project-pen-si/blob/main/renders%20and%20files/cutaway_of_mechanism.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microbolt/blob/main/renders%20and%20files/cutaway_of_mechanism.png?raw=true)
 
 
 _Render of smooth pen with mechanism work in progress_
-![alt text](https://github.com/Micr0wave3/project-pen-si/blob/main/renders%20and%20files/smooth_pen_prototype.png?raw=true)
+![alt text](https://github.com/Micr0wave3/microbolt/blob/main/renders%20and%20files/smooth_pen_prototype.png?raw=true)
